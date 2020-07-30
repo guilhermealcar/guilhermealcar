@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Guilherme de Almeida do Carmo and I'm a Computer Enineering student at Federal University of Technology - Paraná (UTFPR).
+My name is Guilherme and I'm a Computer Engineering student at Federal University of Technology - Paraná (UTFPR).
+I’m currently learning Python for data analysis.
 
 
 <!--
