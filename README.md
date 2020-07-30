@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Guilherme de Almeida do Carmo and I'm a Computer Enineering student at Federal University of Technology - Paraná (UTFPR).
+
 
 <!--
 **guilhermealcar/guilhermealcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
